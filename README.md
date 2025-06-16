@@ -29,7 +29,7 @@ Summarised annualised performance, Sharpe ratios, and drawdowns to understand re
 - The drawdown table shows that the largest peak-to-trough decline across the commodities was about 22%, lasting over 898 trading days, highlighting the risk of prolonged losses in commodities investing.
 
 ## Files
-commodities_analysis.R — full script for data download, return calculations, rolling statistics, and plots.
+ [commodities_etfs.R](commodities_etfs.R):: — full script for data download, return calculations, rolling statistics, and plots.
 
 ## Reflections
 This project strengthened my understanding of practical risk and return analysis for commodities. It reinforced how rolling metrics and correlation help investors evaluate diversification and market trends over time.
